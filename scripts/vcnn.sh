@@ -1,0 +1,13 @@
+th main.lua \
+-epochSize 8000 \
+-batchSize 10 \
+-imageSize 256 \
+-imageCrop 224 \
+-iterSize 1 \
+-nGPU 1 \
+-nDonkeys 3 \
+-nEpochs 20 \
+-netType vcnn \
+-dataset mscoco \
+-data data/MSCOCO/ \
+-train -test
