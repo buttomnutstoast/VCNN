@@ -1,4 +1,4 @@
-Copyright (c) 2016, Tsung-Wei Ke, Tsung-Wei Ke, Tyng-Luh Liu and Davi Geiger All rights reserved.
+Copyright (c) 2016, Tsung-Wei Ke,  Che-Wei Lin, Tyng-Luh Liu and Davi Geiger All rights reserved.
 
 The code is revised from Southmith's code.
 
